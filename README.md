@@ -36,6 +36,7 @@ Otro de los objetivos de Markdown, es que puedas publicar los documentos “como
 ---
 
 | caracteristicas | Markdown | HTML | LaTeX |
+| --- |--- | --- |
 | Facilidad de uso | Muy fácil | Moderado | Difícil |	
 | Sintaxis | Simple | legible | Compleja |
 | Portabilidad | Alta (texto plano) | Alta (navegadores) | Alta (PDF, DVI)  |	
@@ -43,9 +44,5 @@ Otro de los objetivos de Markdown, es que puedas publicar los documentos “como
 | Salida | HTML, PDF, etc. | Páginas web	PDF | DVI	DOCX, PDF, etc. |
 
 
-|    caracteristicas  | Markdown | 
-|------------------|------------------------|
-| ✔️ **Cuenta con UVs** | ❌ **NO cuenta con Uvs** |
-| ✔️ **Cuenta con suavizado** | ❌ **NO cuenta con suavizado** |
 
 
