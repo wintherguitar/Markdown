@@ -45,4 +45,4 @@ Otro de los objetivos de Markdown, es que puedas publicar los documentos “como
 | Salida | HTML, PDF, etc. | Páginas web	PDF | DVI	DOCX, PDF, etc. |
 
 
-
+información sacada de: [markdown](https://markdown.es/)
